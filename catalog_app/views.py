@@ -5,7 +5,7 @@ from .forms import RegisterForm,LoginForm
 from django.http import HttpResponseRedirect, HttpResponse
 import json
 import bcrypt
-import hashlib
+
 
 from django.http import JsonResponse
 
